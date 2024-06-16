@@ -16,7 +16,7 @@ const routes = {
   "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  // "docker-staging.libcuda.so": dockerHub,
 };
 
 function routeByHosts(host) {
